@@ -8,9 +8,9 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
-      "type": "image/png",
+      "src": "icono-medbasha.png", 
       "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
