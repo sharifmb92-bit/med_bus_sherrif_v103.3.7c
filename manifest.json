@@ -1,0 +1,22 @@
+{
+  "name": "Med Basha TMSA",
+  "short_name": "MedBasha",
+  "description": "Registro de Jornada para Conductores de Menorca",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a1d23",
+  "theme_color": "#1a1d23",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/192/3448/3448339.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
